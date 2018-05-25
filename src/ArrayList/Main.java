@@ -15,6 +15,7 @@ public class Main {
         HashMap<Country, String> coun = new HashMap<Country, String>();
 
 int b=55;
+        System.out.println("Evhenii was here");
 
 
     }
